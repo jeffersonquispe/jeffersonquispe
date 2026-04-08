@@ -45,7 +45,7 @@ I’m an AI Engineer and Researcher obsessed with modular, intelligent systems. 
 
 ### ✨ Beyond the Code
 *   **Scholar & Researcher:** M.Sc. in CS and MIT MicroMaster. I enjoy bridging the gap between academic research and production code.
-*   **Speaker:** Catch me at **NAACL**, **NeurIPS Workshops**, or **Khipu AI** talking about the future of Speech and Agentic systems.
+*   **Speaker and Poster Presenter:** Workshops at **NAACL**, **NeurIPS Workshops**, or **Khipu AI** talking about the future of Speech and Agentic systems.
 *   **Hacker at Heart:** I love participating in hackathons—from **NASA** to **IBM Call for Code**.
 
 ---
