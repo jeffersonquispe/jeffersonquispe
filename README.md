@@ -1,4 +1,3 @@
-![Jefferson AI Banner](file:///C:/Users/Jeff/.gemini/antigravity/brain/1195a3b3-84fc-4499-9bb2-16e70adf0f27/jefferson_ai_banner_1775672979511.png)
 
 <div align="center">
   <h1>Hey, I'm Jefferson! 👋</h1>
